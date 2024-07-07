@@ -1,0 +1,7 @@
+{
+    "name":"Arjun",
+    "age": 25,
+    "paid":true,
+    "Class":null,
+    "attend":[90,98,97,96,99,90,87]
+} 
